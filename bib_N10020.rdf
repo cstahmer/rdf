@@ -1,0 +1,100 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/N10020">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>The loyal lovers garland. In four parts.</dct:title>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1760</rdfs:label>
+                  <rdfs:value>1760</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <collex:genre>Broadside poems.</collex:genre>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Voyages and travels</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>A song - "You lovers that know what to love do belong".</dct:description>
+        <dct:description>Publication place and date from MH-H.</dct:description>
+        <dct:description>Printers' names from the Bodleian Library Ballads database.</dct:description>
+        <dct:description>Printed in four columns with the title above the first two; the columns are separated by lines of ornamental type.</dct:description>
+        <bf:hasInstance>http://estc.bl.uk/216</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3854116</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/215</bf:hasInstance>
+        <scm:url>http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N010020&tiPG=1&dd=0&dc=flc&docNum=CW111076609&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK |</scm:url>
+    </estc:estc>
+</rdf:RDF>

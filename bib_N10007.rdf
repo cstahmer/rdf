@@ -1,0 +1,44 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/N10007">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>The noble pedlar: a burletta. As performed at Marybone-Gardens. Set to music by Mr. Barthelemon.</dct:title>
+        <role:AUT>Carey, George Saville, 1743-1807.</role:AUT>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1770</rdfs:label>
+                  <rdfs:value>1770</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/ ">
+                     <rdfs:label>English drama.</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>Anonymous. By George Saville Carey.</dct:description>
+        <dct:description>Without the music.</dct:description>
+        <bf:hasInstance>http://estc.bl.uk/111</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3194796</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/112</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/110</bf:hasInstance>
+        <scm:url>http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N010007&tiPG=1&dd=0&dc=flc&docNum=CW110196138&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK |</scm:url>
+    </estc:estc>
+</rdf:RDF>

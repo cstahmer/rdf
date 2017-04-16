@@ -1,0 +1,45 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/36">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>Continued corruption, standing armies, and popular discontents considered; And the establishment of the English colonies in America, With various subsequent proceedings, and the present contests, examined, with intent to promote their cordial and perpetual union with their mother-country, for their mutual honour, comfort, strength, and safety.</dct:title>
+        <role:AUT>Bollan, William, -1776.</role:AUT>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1768</rdfs:label>
+                  <rdfs:value>1768</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/ ">
+                     <rdfs:label>United States</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:isReferencedBy>Adams, 68-2</dct:isReferencedBy>
+        <dct:isReferencedBy>Sabin, 6210</dct:isReferencedBy>
+        <dct:description>Anonymous. By William Bollan.</dct:description>
+        <role:OWN>nRPJCB</role:OWN>
+        <role:RPS>John Carter Brown Library, Brown University</role:RPS>
+        <bf:shelfMark>D768 .B691c 1-SIZE</bf:shelfMark>
+        <bf:subLocation>2 cops.; cop. 2 - plate; cop2 bound as 1 of 2; signatures: [A]2 (-[A]2) B-X2</bf:subLocation>
+        <bf:instanceOf>http://estc.bl.uk/N1000</bf:instanceOf>
+    </estc:estc>
+</rdf:RDF>

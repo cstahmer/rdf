@@ -1,0 +1,44 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/2">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>A third dissertation on fever. Part I. Containing the history and method of treatment of a regular continued fever, supposing it is left to pursue its ordinary course. By George Fordyce, ...</dct:title>
+        <role:AUT>Fordyce, George, 1736-1802.</role:AUT>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1798</rdfs:label>
+                  <rdfs:value>1798</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>Fever.</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>An errata slip is inserted at the end of Part I, containing a quotation from 'Orlando furioso'.</dct:description>
+        <dct:description>Part II was published in 1799.</dct:description>
+        <dct:description>In this issue the titlepage has 'fever' in roman and 'ordinary' is not hyphenated.</dct:description>
+        <role:OWN>bABu</role:OWN>
+        <role:RPS>Aberdeen University Library</role:RPS>
+        <bf:shelfMark>KCX 61692 For</bf:shelfMark>
+        <bf:instanceOf>http://estc.bl.uk/N10</bf:instanceOf>
+    </estc:estc>
+</rdf:RDF>

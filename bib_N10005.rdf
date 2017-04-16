@@ -1,0 +1,52 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/N10005">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>A description of a set of prints of English history; contained in a set of easy lessons. By Mrs. Trimmer. In two parts. ...</dct:title>
+        <role:AUT>Trimmer, Sarah, 1741-1810.</role:AUT>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1790,1800,1800</rdfs:label>
+                  <rdfs:value>1790,1800,1800</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <collex:genre>Juvenile literature.</collex:genre>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/ ">
+                     <rdfs:label>Great Britain</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>Intended to accompany: 'A series of prints of English history'.</dct:description>
+        <dct:description>In two parts, each with a separate title page.</dct:description>
+        <dct:description>In this edition the 't' in 'description' on both title pages is not swash.</dct:description>
+        <dct:description>Part 1 imprint has comma after "London". Third line reads "Church-Yard, Bow-Lane, and No. 17, Queen-Street,".</dct:description>
+        <dct:description>Part 2 imprint reads: London: printed and sold by John Marshall, at No. 4, Aldermary Church-Yard, Bow-Lane, and No. 17, Queen-Street, Cheapside. Third line reads: "Aldermary Church-Yard, Bow-Lane, and No. 17,".</dct:description>
+        <dct:description>John Marshall at Queen-Street from 1789. Initially as "John Marshall and Co." until Nov. 1789 when the partnership was dissolved. Thereafter as "John Marshall". Cf. David Stoker. "John Marshall, John Evans and the Cheap Repository Tracts 1793-1800". Article pending publication, 2012.</dct:description>
+        <dct:description>"17 Queen Street" ceases to appear on the imprints of Marshall's children's books some time during 1796 but reappears after his break with Hannah More in Nov. 1797. - David Stoker.</dct:description>
+        <dct:description>Some copies printed on wove paper.</dct:description>
+        <dct:description>BEWARE when viewing copy filmed at Primary Source Microfilm: The Eighteenth Century, reel 17670. Wrongly identifed as ESTC N28353. Part 2 only. Filmed with a different edition of part 1 (ESTC T498568) Search ECCO under N28353. View from ECCO image 260.</dct:description>
+        <bf:hasInstance>http://estc.bl.uk/106</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/107</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/105</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/108</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3676124</bf:hasInstance>
+    </estc:estc>
+</rdf:RDF>

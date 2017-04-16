@@ -1,0 +1,43 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/43">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>George Barnwell. A novel. In two volumes. By T. S. Surr, Author of Consequences, a Novel; and Christ's Hospital, a Poem. ... </dct:title>
+        <role:AUT>Surr, T. S. 1770-1847.</role:AUT>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1798</rdfs:label>
+                  <rdfs:value>1798</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Ireland--Dublin</dc:coverage>
+        <collex:genre>Novels.</collex:genre>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/ ">
+                     <rdfs:label>English fiction</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>Based on George Lillo's 'The London merchant'. </dct:description>
+        <role:OWN>bD</role:OWN>
+        <role:RPS>National Library of Ireland</role:RPS>
+        <bf:shelfMark>82369.s15</bf:shelfMark>
+        <bf:instanceOf>http://estc.bl.uk/N10001</bf:instanceOf>
+    </estc:estc>
+</rdf:RDF>

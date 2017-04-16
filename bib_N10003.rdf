@@ -1,0 +1,108 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/N10003">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>The note of hand; or, trip to Newmarket. As it is acted at the Theatre-Royal in Drury-Lane. Nosse omnia haec salus est adolescentulis. Ter.</dct:title>
+        <role:AUT>Cumberland, Richard, 1732-1811.</role:AUT>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1774</rdfs:label>
+                  <rdfs:value>1774</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <collex:genre>Plays.</collex:genre>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Fantasy drama, English</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>Anonymous. By Richard Cumberland.</dct:description>
+        <dct:description>With a half-title.</dct:description>
+        <dct:description>Price from imprint: Price One Shilling.</dct:description>
+        <bf:hasInstance>http://estc.bl.uk/3675373</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/50</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/51</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/52</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3543375</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/53</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/54</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/55</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/56</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/59</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/58</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/57</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/60</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3289682</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/97</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/61</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/62</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/64</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/63</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/67</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/68</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/49</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/48</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/69</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3050638</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3172322</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3172323</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3173124</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3175232</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/70</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/71</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/72</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/74</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3483022</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3476230</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/73</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/76</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3366650</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3366654</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/77</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/78</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/80</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/81</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/79</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/82</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/83</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/85</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/84</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3144540</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3265583</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3265584</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/86</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/87</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/88</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3097876</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/89</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/90</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/94</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/91</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/92</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/93</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/95</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/96</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3345180</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/98</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3345181</bf:hasInstance>
+        <scm:url>http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N010003&tiPG=1&dd=0&dc=flc&docNum=CW110405156&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRK |</scm:url>
+    </estc:estc>
+</rdf:RDF>

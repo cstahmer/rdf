@@ -1,0 +1,43 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/10">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>The better sequel better'd. In a dialogue betwixt the oak and the dunghill. </dct:title>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1729</rdfs:label>
+                  <rdfs:value>1729</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <collex:genre>Poems.</collex:genre>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Dialect poetry, English</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:isReferencedBy>Foxon, B203</dct:isReferencedBy>
+        <dct:description>A sequel to William Broome's 'The fable of the oak and the dunghill' and 'The dunghill and the oak'.</dct:description>
+        <role:OWN>bO</role:OWN>
+        <role:RPS>Oxford University Bodleian Library (includes The Vicar's Library, ST. Mary's Church, Marlborough)</role:RPS>
+        <bf:shelfMark>G.Pamph.1664(17)</bf:shelfMark>
+        <bf:instanceOf>http://estc.bl.uk/N100</bf:instanceOf>
+    </estc:estc>
+</rdf:RDF>

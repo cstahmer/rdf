@@ -1,0 +1,46 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/70">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>The note of hand; or, trip to Newmarket. As it is acted at the Theatre-Royal in Drury-Lane. Nosse omnia haec salus est adolescentulis. Ter.</dct:title>
+        <role:AUT>Cumberland, Richard, 1732-1811.</role:AUT>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1774</rdfs:label>
+                  <rdfs:value>1774</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <collex:genre>Plays.</collex:genre>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/  ">
+                     <rdfs:label>Fantasy drama, English</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>Anonymous. By Richard Cumberland.</dct:description>
+        <dct:description>With a half-title.</dct:description>
+        <dct:description>Price from imprint: Price One Shilling.</dct:description>
+        <role:OWN>nCU-BANC</role:OWN>
+        <role:RPS>University of California, Berkeley, Bancroft</role:RPS>
+        <bf:shelfMark>PR3392.N68 1774</bf:shelfMark>
+        <bf:subLocation>?ht.</bf:subLocation>
+        <bf:instanceOf>http://estc.bl.uk/N10003</bf:instanceOf>
+    </estc:estc>
+</rdf:RDF>

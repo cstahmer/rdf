@@ -1,0 +1,55 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/N10011">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>A new discovery of the nature of the plague. And the true cause of its raging in European cities. With the remedy. Contrary to the opinion of Dr. Meade, Dr. Browne, and others, who give for the First Causes of the Plague, in late Discourses, Air, Diet, and Disease.</dct:title>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1721</rdfs:label>
+                  <rdfs:value>1721</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Great Britain--England--London</dc:coverage>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>Plague.</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>Dedication dated: Aug. 31, 1721.</dct:description>
+        <dct:description>Price from imprint: Price 1 s.</dct:description>
+        <bf:hasInstance>http://estc.bl.uk/127</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3551885</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3551767</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3551768</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3551890</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3551886</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3551887</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3551888</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3551889</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/128</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/133</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/3175698</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/130</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/126</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/131</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/132</bf:hasInstance>
+        <scm:url>http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N010011&tiPG=1&dd=0&dc=flc&docNum=CW108206840&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=0LRM |</scm:url>
+    </estc:estc>
+</rdf:RDF>

@@ -1,0 +1,46 @@
+<rdf:RDF xmlns:gl="http://bl.uk.org/schema#"
+    xmlns:estc="http://estc21.ucr.edu/schema#"
+    xmlns:dct="http://purl.org/dc/terms/#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/#"
+    xmlns:foaf="http://xmlns.com/foaf/0.1/#"
+    xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos/#"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema/#"
+    xmlns:role="http://www.loc.gov/loc.terms/relators/"
+    xmlns:bf="http://bibframe.org/vocab/"
+    xmlns:relators="http://id.loc.gov/vocabulary/relators/"
+    xmlns:collex="http://www.collex.org/schema#"
+    xmlns:scm="http://schema.org/" >
+    <estc:estc rdf:about="http://estc.bl.uk/N10010">
+        <collex:federation>ESTC</collex:federation>
+        <collex:archive>estcstar</collex:archive>
+        <dct:title>Extracts from the album, at Streatham: or, Ministerial amusements. To which are added, the bulse, a pindaric ode: and jekyll, an eclogue.</dct:title>
+        <dc:date>
+             <collex:date>
+                  <rdfs:label>1788</rdfs:label>
+                  <rdfs:value>1788</rdfs:value>
+             </collex:date>
+        </dc:date>
+        <dc:coverage>Ireland--Dublin</dc:coverage>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/     ">
+                     <rdfs:label>Lansdowne, William Petty, Marquis of, 1737-1805</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:subject>
+                <scm:about rdfs:resource="http://estc.bl.uk/subjects/">
+                     <rdfs:label>1701-1800</rdfs:label>
+                </scm:about>
+        </dct:subject>
+        <dct:description>Sometimes attributed to Richardson.</dct:description>
+        <bf:hasInstance>http://estc.bl.uk/120</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/119</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/121</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/122</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/123</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/124</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/125</bf:hasInstance>
+        <bf:hasInstance>http://estc.bl.uk/118</bf:hasInstance>
+        <scm:url>http://galenet.galegroup.com/servlet/ECCO?c=1&stp=Author&ste=11&af=BN&ae=N010010&tiPG=1&dd=0&dc=flc&docNum=CW131185451&vrsn=1.0&srchtp=a&d4=0.33&n=10&SU=2NEJ</scm:url>
+    </estc:estc>
+</rdf:RDF>
